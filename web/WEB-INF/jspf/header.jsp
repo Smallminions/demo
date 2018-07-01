@@ -1,0 +1,1 @@
+<%-- any content can be specified here e.g.: --%><%@ page pageEncoding="UTF-8" %><ul>    <li><a href="#">移动应用办公系统</a></li>    <li><a href="employee.jsp">&emsp;员工管理</a></li>    <li><a href="seat.jsp">&emsp;坐席管理</a></li>    <li><a href="device.jsp">&emsp;设备管理</a></li>    <li><a href="#">&emsp;公司简介</a></li>    <li><a href="#">&emsp;使用说明</a></li></ul>

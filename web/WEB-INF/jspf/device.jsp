@@ -1,0 +1,1 @@
+<%-- any content can be specified here e.g.: --%><%@ page pageEncoding="UTF-8" %><ul>    <li><a href="#">设备信息管理</a></li>    <li><a href="device.jsp">&emsp;设备浏览</a></li>    <li><a href="deviceadd.jsp">&emsp;信息添加</a></li>    <li><a href="deviceupdate.jsp">&emsp;信息修改</a></li>    <li><a href="/UserDeviceServlet">&emsp;设备归还</a></li></ul>

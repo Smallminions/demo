@@ -1,0 +1,1 @@
+package com.mobile.dao;import com.mobile.model.Ed;import com.mobile.util.Pagination;import java.util.List;public interface EdDao {    public List<Ed> getAllEd(String eid, Pagination pagination);    public boolean findEd(String did, String eid);    public boolean insertEd(Ed ed);    public boolean deleteEd(String did, String eid);}

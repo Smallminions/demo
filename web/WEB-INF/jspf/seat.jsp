@@ -1,0 +1,1 @@
+<%-- any content can be specified here e.g.: --%><%@ page pageEncoding="UTF-8" %><ul>    <li><a href="#">坐席信息管理</a></li>    <li><a href="seat.jsp">&emsp;信息浏览</a></li>    <li><a href="seatupdate.jsp">&emsp;信息修改</a></li></ul>

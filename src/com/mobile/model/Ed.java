@@ -1,0 +1,1 @@
+package com.mobile.model;//描述员工用设备的信息public class Ed {    private String Eid;    private String Did;    public String getEid() {        return Eid;    }    public void setEid(String eid) {        Eid = eid;    }    public String getDid() {        return Did;    }    public void setDid(String did) {        Did = did;    }}

@@ -1,0 +1,1 @@
+<%-- any content can be specified here e.g.: --%><%@ page pageEncoding="UTF-8" %><ul >    <li><a href="#">员工信息管理</a></li>    <li><a href="DisplayEmployeeServlet">&emsp;信息浏览</a></li>    <li><a href="ResetPwd.jsp">&emsp;修改密码</a></li>    <li><a href="employeeadd.jsp">&emsp;信息添加</a></li>    <li><a href="employeeupdate.jsp">&emsp;信息修改</a></li></ul>
